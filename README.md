@@ -19,7 +19,7 @@ If you would like to manually install this plugin you need to download three dif
 - main.js
 - styles.css
 
-Inside your vault locate the `.obsidian` directory and create a new subdirectory. Copy the three aforementioned files inside the newly created subdirectory. Lastly, reload the obsidian app and in settings under the "Community plugins" enable this plugin.
+Inside your vault locate the `.obsidian` directory. Create `plugins` folder and create a new subdirectory (could be called `mdoc`). Copy the three aforementioned files inside the newly created subdirectory. Lastly, reload the obsidian app and in settings under the "Community plugins" enable this plugin.
 
 After finishing these steps the plugin should be installed.
 
